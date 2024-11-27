@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\darvi\\Documents\\minimal-api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F60BE71-A20E-40FF-A2E0-54DEC535C76F}|Api\\mininal-api.csproj|c:\\users\\darvi\\documents\\minimal-api\\api\\dominio\\entidades\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F60BE71-A20E-40FF-A2E0-54DEC535C76F}|Api\\mininal-api.csproj|solutionrelative:api\\dominio\\entidades\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F60BE71-A20E-40FF-A2E0-54DEC535C76F}|Api\\mininal-api.csproj|c:\\users\\darvi\\documents\\minimal-api\\api\\dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F60BE71-A20E-40FF-A2E0-54DEC535C76F}|Api\\mininal-api.csproj|solutionrelative:api\\dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F60BE71-A20E-40FF-A2E0-54DEC535C76F}|Api\\mininal-api.csproj|c:\\users\\darvi\\documents\\minimal-api\\api\\infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F60BE71-A20E-40FF-A2E0-54DEC535C76F}|Api\\mininal-api.csproj|solutionrelative:api\\infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\minimal-api\\Api\\Dominio\\Entidades\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Api\\Dominio\\Entidades\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\darvi\\Documents\\minimal-api\\Api\\Dominio\\Entidades\\Veiculo.cs",
+              "RelativeToolTip": "Api\\Dominio\\Entidades\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:52:06.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\minimal-api\\Api\\Dominio\\Entidades\\Administrador.cs",
+              "RelativeDocumentMoniker": "Api\\Dominio\\Entidades\\Administrador.cs",
+              "ToolTip": "C:\\Users\\darvi\\Documents\\minimal-api\\Api\\Dominio\\Entidades\\Administrador.cs",
+              "RelativeToolTip": "Api\\Dominio\\Entidades\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:51:48.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContexto.cs",
+              "DocumentMoniker": "C:\\Users\\darvi\\Documents\\minimal-api\\Api\\Infraestrutura\\Db\\DbContexto.cs",
+              "RelativeDocumentMoniker": "Api\\Infraestrutura\\Db\\DbContexto.cs",
+              "ToolTip": "C:\\Users\\darvi\\Documents\\minimal-api\\Api\\Infraestrutura\\Db\\DbContexto.cs",
+              "RelativeToolTip": "Api\\Infraestrutura\\Db\\DbContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:47:25.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
